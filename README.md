@@ -27,4 +27,6 @@ Thanks for exploring my GitHub profile! I'm currently pursuing my M.S. degree in
 ![Git](https://img.shields.io/badge/-Git-32D2F0?style=flat&logo=git)
 ![Grafana](https://img.shields.io/badge/-Grafana-32D2F0?style=flat&logo=grafana)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinxiang-chen&layout=compact)
+
 [![Xinxiang Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinxiang-chen)](https://github.com/xinxiang-chen/github-readme-stats)
