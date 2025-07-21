@@ -1,6 +1,4 @@
-### Hi there👋
-
-### This is Xinxiang Chen
+# Hi there👋! This is Xinxiang Chen
 
 [![Static Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/xinxiang-chen)
 
@@ -8,18 +6,18 @@
 
 Thanks for exploring my GitHub profile! I'm currently pursuing my M.S. degree in Computer Science at University of Southern California(USC).
 
-#### 🌱 I'm currently working on
+### 🌱 I'm currently working on
 
 - Finish my master degree
 - Learning about fullstack software devlopment
 
-#### :muscle: I'm challenging myself with
+### :muscle: I'm challenging myself with
 
 - Wake up and go to bed earlier everyday
 - Solve at least 100 Leetcode problems this summer
 - Try to implement some useful project by myself
 
-#### :computer: Languages and Tools
+### :computer: Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-244264?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-154?style=flat&logo=pandas)
@@ -28,3 +26,5 @@ Thanks for exploring my GitHub profile! I'm currently pursuing my M.S. degree in
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-32D2F0?style=flat&logo=git)
 ![Grafana](https://img.shields.io/badge/-Grafana-32D2F0?style=flat&logo=grafana)
+
+[![Xinxiang Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinxiang-chen)](https://github.com/xinxiang-chen/github-readme-stats)
