@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ethan Chen
+- 👋 Hi, I’m @Xinxiang Chen
 - 👀 I’m interested in football
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
