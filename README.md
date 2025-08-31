@@ -13,9 +13,7 @@ Thanks for exploring my GitHub profile! I'm currently pursuing my M.S. degree in
 
 ### :muscle: I'm challenging myself with
 
-- Wake up and go to bed earlier everyday
-- Solve at least 100 Leetcode problems this summer
-- Try to implement some useful project by myself
+- Making some awesome real-world applications!
 
 ### :computer: Languages and Tools
 
